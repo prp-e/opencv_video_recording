@@ -1,4 +1,3 @@
-import imp
 import cv2 
 from cv2 import VideoWriter, VideoWriter_fourcc
 
